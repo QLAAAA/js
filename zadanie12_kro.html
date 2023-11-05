@@ -8,17 +8,17 @@
 <body>
     <div style="color:green;font-size:42px;">
         <script lang="JavaScript">
-         var D1=prompt("dzien 1=");
-         var G1=prompt("godzina 1=");
-         var D2=prompt("dzien 2=");
-         var G2=prompt("godzina 2=");
-         var a1_kro=parseFloat(D1);
-         var b1_kro=parseFloat(G2);
-         var c2_kro=parseFloat(D2);
-         var d2_kro=parseFloat(G2);
-         var wynik=((a1_kro-c2_kro)*24*3600)+((b1_kro-d2_kro)*3600);
-         document.write("Ilość sekund = " + wynik );
-        </script>
+            var D1_KRO=prompt("dzien 1=");
+            var G1_KRO=prompt("godzina 1=");
+            var D2_KRO=prompt("dzien 2=");
+            var G2_KRO=prompt("godzina 2=");
+            var a1=parseFloat(D1_KRO);
+            var b1=parseFloat(G2_KRO);
+            var c2=parseFloat(D2_KRO);
+            var d2=parseFloat(G2_KRO);
+            var wynik=((a1-c2)*24*3600)+((b1-d2)*3600);
+            document.write("Ilość sekund = " + wynik );
+           </script>
         </div>
 </body>
 </html>
