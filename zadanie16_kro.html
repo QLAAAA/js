@@ -10,14 +10,16 @@
     <div style="color:red;font-size:50px;">
     <script lang="JavaScript">
         var liczba1=prompt("daj liczbe A=","");
+        var A_kro=parseFloat(liczba1);
         var liczba2=prompt("daj liczbe B=","");
-     var A_kro=parseFloat(liczba1);
-     var B_kro=parseFloat(liczba2);
+        var B_kro=parseFloat(liczba2);
      
-     document.write("A="+A_kro,"  B=",B_kro+"<br>");
-     A2_kro=A_kro^3;
+     document.write("A="+A_kro+"<br>");
+     document.write("B"+B_kro+"</br>");
+     document.write("("+A_kro+"+"+B_kro+")^3=");
+     document.write(A_kro+"^"+"3+3*"+A_kro+"^2*"+B_kro+"+3*"+A_kro+"*"+B_kro+"^2+"+B_kro+"^3=");
 
-     document.write("("+A_kro,"+",B_kro+")^3="+A2_kro,"+",AB_kro,"+",B2_kro+"<br>");
+     document.write(A_kro*A_kro*A_kro+"+"+3*A_kro*A_kro*B_kro+"+"+3*A_kro*B_kro*B_kro+"+"+B_kro*B_kro*B_kro+"</br>");
     </script>
     </div>
 </body>
