@@ -73,25 +73,25 @@ function z1() {
  
  
  function z11_kod() {
-    window.open("z11_krot_kod.html", "okienko_z11_kod","toolbar=no, directories=no, menubar=no, height=500, width=600, top=350, left=600");
+    window.open("zadanie11_kod_kro.html", "okienko_z11_kod","toolbar=no, directories=no, menubar=no, height=500, width=600, top=350, left=600");
  }
  
  function z12_kod() {
-    window.open("z12_krot_kod.html", "okienko_z12_kod","toolbar=no, directories=no, menubar=no, height=500, width=600, top=350, left=600");
+    window.open("zadanie12_kod_kro.html", "okienko_z12_kod","toolbar=no, directories=no, menubar=no, height=550, width=600, top=350, left=600");
  }
  
  function z13_kod() {
-    window.open("z13_krot_kod.html", "okienko_z13_kod","toolbar=no, directories=no, menubar=no, height=500, width=600, top=350, left=600");
+    window.open("zadanie13_kod_kro.html", "okienko_z13_kod","toolbar=no, directories=no, menubar=no, height=600, width=600, top=350, left=600");
  }
  
  function z14_kod() {
-    window.open("z14_krot_kod.html", "okienko_z14_kod","toolbar=no, directories=no, menubar=no, height=500, width=600, top=350, left=600");
+    window.open("zadanie14_kod_kro.html", "okienko_z14_kod","toolbar=no, directories=no, menubar=no, height=600, width=600, top=350, left=600");
  }
  
  function z15_kod() {
-    window.open("z15_krot_kod.html", "okienko_z15_kod","toolbar=no, directories=no, menubar=no, height=500, width=600, top=350, left=600");
+    window.open("zadanie15_kod_kro.html", "okienko_z15_kod","toolbar=no, directories=no, menubar=no, height=570, width=600, top=350, left=600");
  }
  
  function z16_kod() {
-    window.open("z16_krot_kod.html", "okienko_z16_kod","toolbar=no, directories=no, menubar=no, height=500, width=600, top=350, left=600");
+    window.open("zadanie16_kod_kro.html", "okienko_z16_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
  }
