@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color: green;">MENU</h1>
+    <p style="color: red;">1-CZERWONY</p>
+    <p style="color: blue;">2-NIEBIESKI</p>
+    <input type="button" name="krotoszyński" value="Oblicz" onclick="fun_kro()" />
+<script>krotoszyński
+function fun_kro() {
+var x_kro = prompt("Podaj kolor", "");
+if(x_kro == 1 || x_kro.toLowerCase() == "czerwony") {
+document.write('<h1 style=\"color:red;\">wczytałeś kolor czerwony</h1><br />'); }
+else if(x_kro == 2 || x_kro.toLowerCase() == "niebieski") {
+document.write('<h6 style=\"color:blue ;\">wczytałeś kolor niebieski</h6><br/>');
+}
+}
+</script>
+</body>
+</html>
