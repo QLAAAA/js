@@ -111,11 +111,11 @@ function z32() {
     window.open("zadanie16_kod_kro.html", "okienko_z16_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
  }
  function z30_kod() {
-   window.open("zad30_kod_krot.html", "okienko_z30_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad30_kod_krot.html", "okienko_z30_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z31_kod() {
-   window.open("zad31_kod_krot.html", "okienko_z31_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad31_kod_krot.html", "okienko_z31_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z32_kod() {
-   window.open("zad32_kod_krot.html", "okienko_z32_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad32_kod_krot.html", "okienko_z32_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
