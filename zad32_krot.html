@@ -1,22 +1,23 @@
 <html>
  <head>
  <script type="text/javascript">
- function router(prędkość,zabezpieczenia,)
+ function router(marka,maxpredkosc,czestotliwosc)
 {
-this.nazwisko=nazwisko_k;
-this.imie=imie_k;
-this.zawod=zawod_k;
+this.marka=marka;
+this.maxpredkosc=maxpredkosc;
+this.czestotliwosc=czestotliwosc;
 }
  router.prototype.wypisz = function ()
  {
- alert(this.nazwisko + ' ' + this.imie+ ' ' + this.zawod);
+ alert(this.marka + ' ' + this.maxpredkosc+ ' ' + this.czestotliwosc);
  };
-var osoba1 = new klient("Kowalski", "Jan", "kierowca");
-var osoba2 = new klient('Nowak', 'Anna', 'sekretarka');
-osoba1.wypisz(); 
-osoba2.wypisz();
+var router1 = new router("TP-LINK", "300 MB/s", "2.4 Ghz");
+var router2 = new router('ASUS', '1775 MB/s', '2.4/5 Ghz');
+router1.wypisz(); 
+router2.wypisz();
  document.write("dostęp do właściwości"+"<br>");
- document.write("klient pierwszy"+" "+osoba1.nazwisko+" "+osoba1.imie+" "+osoba1.zawod);
+ document.write("Router pierwszy"+" &nbsp;Marka: "+router1.marka+" &nbsp;Maksymalna prędkość: "+router1.maxpredkosc+" &nbsp;Częstotliwość: "+router1.czestotliwosc+"</br>");
+ document.write("Router drugi"+" &nbsp;Marka: "+router2.marka+" &nbsp;Maksymalna prędkość: "+router2.maxpredkosc+" &nbsp;Częstotliwość: "+router2.czestotliwosc);
  </script>
  </head>
 <body>

@@ -2,17 +2,17 @@
  <head>
  <script type="text/javascript">
  var router = {
-nazwisko: 'Krotoszyński',
-imie: 'Jakub',
-zawod: 'informatyk',
-pokaz: function ()
+marka: 'TP-LINK',
+maxpredkosc: '300 MB/s',
+czestotliwosc: '2.4 Ghz',
+pokaz_Krotoszynski ()
 {
- document.write(this.nazwisko + ' ' + this.imie)
+ document.write(this.marka + ' ' + this.czestotliwosc)
  }
 }
-router.pokaz();
-router.wiek=17;
-router.wypisz=function() {alert('Wiek: ' + this.wiek + 'lat')}
+router.pokaz_Krotoszynski();
+router.mobilny="Nie";
+router.wypisz=function() {alert('Czy router jest mobilny: ' + this.mobilny)}
 router.wypisz();
  </script>
  </head>
