@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+   <input type="button" name="nazwisko_ucznia" value="Oblicz" onclick="fun_kro()" />
+   <script>
+    function fun_kro(){
+       var liczba=prompt("Podaj liczbę","");
+       var x_kro=parseFloat(liczba);
+       if(x_kro % 2 === 0){
+           document.write('<p style=\"color:red; size: 3;\">Liczba jest parzysta</p></br>');
+       }
+       else{
+               
+           document.write('<p style=\"color:silver; size: 5;\">Liczba jest nie parzysta</p></br>');
+           }
+       
+    }
+   </script>
+</body>
+</html>
