@@ -87,7 +87,7 @@ function z35() {
    window.open("zad35.html", "okienko_z35","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
 }
 function z36() {
-   window.open("zad_36_krot.html", "okienko_z36","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+   window.open("zad_36_kro.html", "okienko_z36","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
 }
 function z38() {
    window.open("zad_38_krot.html", "okienko_z38","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
