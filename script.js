@@ -1,7 +1,7 @@
 function z1() {
     window.open("z1_krot.html", "okienko_z1","toolbar=no, directories=no, menubar=no, height=75, width=75, top=180, left=200");
  }
- 
+  
  function z2() {
     window.open("z2_krot.html", "okienko_z2","toolbar=no, directories=no, menubar=no, height=100, width=450, top=350, left=200");
  }
