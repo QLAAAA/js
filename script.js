@@ -97,10 +97,13 @@ function z39() {
 }
 function z40() {
    window.open("zad40_krot.html", "okienko_z40","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
 function z41() {
    window.open("krot_zad41.html", "okienko_z41","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
 function z42() {
    window.open("krot_zad42.html", "okienko_z42","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
 function z43() {
    window.open("krot_zad43.html", "okienko_z43","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
 }
