@@ -107,6 +107,51 @@ function z42() {
 function z43() {
    window.open("krot_zad43.html", "okienko_z43","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
 }
+function z44() {
+   window.open("zad44.html", "okienko_z44","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z45() {
+   window.open("krot_zad45.html", "okienko_z45","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z46() {
+   window.open("krot_zad46.html", "okienko_z46","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z47() {
+   window.open("krot_zad47.html", "okienko_z47","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z48() {
+   window.open("zad48.html", "okienko_z48","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z49() {
+   window.open("zad49.html", "okienko_z49","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z50() {
+   window.open("zad50.html", "okienko_z50","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z51() {
+   window.open("zad51.html", "okienko_z51","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z52() {
+   window.open("zad52.html", "okienko_z52","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z53() {
+   window.open("zad53.html", "okienko_z53","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z54() {
+   window.open("krot_zad54.html", "okienko_z54","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z55() {
+   window.open("krot_zad55.html", "okienko_z55","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z56() {
+   window.open("krot_zad56.html", "okienko_z56","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z57() {
+   window.open("krot_zad57.html", "okienko_z57","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
+function z58() {
+   window.open("krot_zad58.html", "okienko_z58","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+}
  
  
  
