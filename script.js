@@ -189,57 +189,57 @@ function z32_kod() {
    window.open("wyk_zad/zad32_kod_krot.html", "okienko_z32_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z41_kod() {
-   window.open("wyk_zad/zad41_kod_krot.html", "okienko_z41_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad41_kro_KOD.html", "okienko_z41_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z42_kod() {
-   window.open("wyk_zad/zad42_kod_krot.html", "okienko_z42_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad42_kro_KOD.html", "okienko_z42_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z43_kod() {
-   window.open("wyk_zad/zad43_kod_krot.html", "okienko_z43_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad43_kro_KOD.html", "okienko_z43_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z44_kod() {
-   window.open("wyk_zad/zad44_kod_krot.html", "okienko_z44_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad44_kro_KOD.html", "okienko_z44_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z45_kod() {
-   window.open("wyk_zad/zad45_kod_krot.html", "okienko_z45_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad45_kro_KOD.html", "okienko_z45_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z46_kod() {
-   window.open("wyk_zad/zad46_kod_krot.html", "okienko_z46_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad46_kro_KOD.html", "okienko_z46_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z47_kod() {
-   window.open("wyk_zad/zad47_kod_krot.html", "okienko_z47_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad47_kro_KOD.html", "okienko_z47_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z48_kod() {
-   window.open("wyk_zad/zad48_kod_krot.html", "okienko_z48_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad48_kro_KOD.html", "okienko_z48_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z49_kod() {
-   window.open("wyk_zad/zad49_kod_krot.html", "okienko_z49_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad49_kro_KOD.html", "okienko_z49_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z50_kod() {
-   window.open("wyk_zad/zad50_kod_krot.html", "okienko_z50_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad50_kro_KOD.html", "okienko_z50_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z51_kod() {
-   window.open("wyk_zad/zad51_kod_krot.html", "okienko_z51_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad51_kro_KOD.html", "okienko_z51_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z52_kod() {
-   window.open("wyk_zad/zad52_kod_krot.html", "okienko_z52_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad52_kro_KOD.html", "okienko_z52_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z53_kod() {
-   window.open("wyk_zad/zad53_kod_krot.html", "okienko_z53_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad53_kro_KOD.html", "okienko_z53_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z54_kod() {
-   window.open("wyk_zad/zad54_kod_krot.html", "okienko_z54_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad54_kro_KOD.html", "okienko_z54_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z55_kod() {
-   window.open("wyk_zad/zad55_kod_krot.html", "okienko_z55_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad55_kro_KOD.html", "okienko_z55_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z56_kod() {
-   window.open("wyk_zad/zad56_kod_krot.html", "okienko_z56_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad56_kro_KOD.html", "okienko_z56_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z57_kod() {
-   window.open("wyk_zad/zad57_kod_krot.html", "okienko_z57_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad57_kro_KOD.html", "okienko_z57_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 function z58_kod() {
-   window.open("wyk_zad/zad58_kod_krot.html", "okienko_z58_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
+   window.open("wyk_zad/zad58_kro_KOD.html", "okienko_z58_kod","toolbar=no, directories=no, menubar=no, height=650, width=600, top=350, left=600");
 }
 
