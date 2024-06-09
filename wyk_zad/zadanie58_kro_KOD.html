@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <textarea cols="25" rows="75">
+        <html lang="pl-PL">
+            <head>
+             <meta charset="utf-8">
+             <title> Przykład użycia pętli </title>
+             <div style="color:red;font-size:18px">
+             <script language="JavaScript">
+             var x=prompt("podaj liczbe 1=","");
+             var liczba1_kro=parseInt(x);
+             var x=prompt("podaj liczbe 2=","");
+             var liczba2_kro=parseInt(x);
+             
+             if(liczba1_kro<liczba2_kro){
+             for(i=liczba1_kro;i<=liczba2_kro;i++){
+             if(i%2==1){
+             document.write("<p style=\"font-size:18px;color:black;\"></br>"+i+"</br></p>");
+             }
+             }
+             }
+             else if(liczba1_kro>liczba2_kro){
+             for(i=liczba1_kro;i>liczba2_kro;i--){
+             if(i%2==1){
+             document.write("<p style=\"font-size:18px;color:black;\"></br>"+i+"</br></p>");
+             }
+             }
+             }
+             else if(liczba1_kro==liczba2_kro){
+             document.write("Brak obliczeń </br>");
+             }
+             </script>
+             </div>
+            
+            </head>
+            <body>
+            
+            </body>
+            </html>
+    </textarea>
+</body>
+</html>
